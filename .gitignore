@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Astro Build Output and Cache
+dist/
+.astro/
+
+# Enviornment Variables
+.env
+.env*
+
+# IDE Settings
+.idea/
+
+#OS-Specific Filess
+.DS_Store
+Thumbs.db
