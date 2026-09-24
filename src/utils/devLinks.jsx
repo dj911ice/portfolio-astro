@@ -8,10 +8,10 @@ export const devLinks =[
     {
         name: "Pop! OS",
         path: "https://pop.system76.com/",
-        description: "Flavor of the linux distro by System76."
+        description: "An Ubuntu-based Linux distribution built by System76."
     },
 
-    {
+    /*{
         name: "Webstorm IDE",
         path: "https://www.jetbrains.com/webstorm/",
         description: "Provided by Jetbrains, this IDE rocks!"
@@ -25,5 +25,5 @@ export const devLinks =[
         name: "Material Tailwind",
         path: "https://www.material-tailwind.com/",
         description: "Material components for Tailwind."
-    }
+    }*/
 ]

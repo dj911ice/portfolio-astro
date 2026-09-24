@@ -12,7 +12,7 @@ function About() {
             <main>
                 <section>
                     <h2>About</h2>
-                    <h3>MERN</h3>
+                    <h3>Front End</h3>
                     {mernLinks.map((link, mern) => {
                         return (
                             <ul key={mern}>
