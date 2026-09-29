@@ -22,11 +22,11 @@ export const mernLinks = [
         description: "Utilized for jsx components."
     },
 
-    {
+   /* {
         name: "Node.js",
         path: "https://nodejs.org/en",
         description: "The development server/engine runtime written in Javascript."
-    },
+    },*/
 
    /* {
         name: "Next.js",
