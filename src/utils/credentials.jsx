@@ -37,7 +37,7 @@ export const credentialsStatic = [
         credentialCertifier: "Cuyahoga Community College",
         institutionalLink: null,
         credentialCompleted: true,
-        credentialVisibility: true
+        credentialVisibility: false
     },
     {
         credentialType: "Degree",
@@ -47,7 +47,7 @@ export const credentialsStatic = [
         credentialCertifier: "Cuyahoga Community College",
         institutionalLink: null,
         credentialCompleted: true,
-        credentialVisibility: true
+        credentialVisibility: false
     },
     {
         credentialType: "Certificate",

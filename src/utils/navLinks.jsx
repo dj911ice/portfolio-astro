@@ -7,13 +7,17 @@ export const navLinks = [
         name: "Credentials",
         path: "/credentials"
     },
-    /*{
+    {
         name: "Courses",
         path: "/courses"
-    },*/
+    },
     {
         name: "Experience",
         path: "/experience"
+    },
+    {
+      name: "Programming",
+      path: "/programming"
     },
     /*{
         name: "Projects",
