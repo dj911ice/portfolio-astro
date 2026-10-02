@@ -5,6 +5,12 @@ import Footer from "../components/Footer";
 function Experience(){
     return (
         <>
+            <head>
+                <title>JPD: Experience</title>
+                <meta name="description" content="Migrated to Astro!"/>
+                <meta name="viewport" content="width=device-width"/>
+                <link rel="icon" href="/favicon.ico"/>
+            </head>
             <Header/>
             <main>
                 <section>
